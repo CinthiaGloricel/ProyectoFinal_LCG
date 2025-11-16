@@ -6,3 +6,5 @@ https://drive.google.com/file/d/1xCIhKd3LZGZ7TvClaU39FcpU7lUwxU_y/view?usp=shari
 
 Link del Release, dentro de esta carpeta se encuentra el .exe
 https://drive.google.com/file/d/10yblHMGPyaQRu5G-WStIGLjDo5zw4487/view?usp=drive_link
+
+Es recomendable abrir el link del .exe y descargar solo esa carpeta (Release) para poder visualizar la aplicación.
